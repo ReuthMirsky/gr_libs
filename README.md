@@ -6,7 +6,8 @@ It provides implementations of multiple online and offline GR algorithms built o
 All agents interact with Gym environments registered by the companion package **`gr-envs`**, which is a required dependency.  
 See: https://github.com/MatanShamir1/gr_envs
 
-<table> <tr> <td width="40%"> <img src="gifs/point_maze.gif" width="200"/> </td> <td> A simple example of an agent trajectory used for goal recognition. Detailed descriptions of all supported domains, environment instances, and algorithms are documented separately in [`docs/domains_and_algorithms.md`](docs/domains_and_algorithms.md) </td> </tr> </table>
+<table> <tr> <td width="40%"> <img src="gifs/point_maze.gif" width="200"/> </td> <td> A simple example of an agent trajectory used for goal recognition. Detailed descriptions of all supported domains, environment instances, and algorithms are documented separately in [gr_libs/Domains_and_algorithms.md](gr_libs/Domains_and_algorithms.md).
+ </td> </tr> </table>
 
 
 ## Setup
