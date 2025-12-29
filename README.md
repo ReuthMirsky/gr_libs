@@ -91,8 +91,8 @@ download-gr-libs-dataset --extract_to /path/to/data
 This will create:
 
 ```
-trained_agents/
-gr_cache/
+Grlib/trained_agents/
+Grlib/gr_cache/
 ```
 
 ### Alternative Dataset Access
