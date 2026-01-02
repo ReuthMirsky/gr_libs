@@ -10,7 +10,23 @@ See: https://github.com/MatanShamir1/gr_envs
  </td> </tr> </table>
 
 
-## Setup
+## 📖 Table of Contents
+
+- [📖 Table of Contents](#-table-of-contents)
+- [⚙️ Setup](#-setup)
+- [🧩 Configuration](#-configuration)
+- [🚀 Running](#-running)
+- [📈 Scaling Experiments](#-scaling-experiments)
+- [🛠️ For Developers](#️-for-developers)
+<!--
+ - [🌐 Related Links](#-related-links)
+\\ [📄 License](#-license)
+\\ - [Acknowledgments](#acknowledgments)
+-->
+
+---
+
+## ⚙️ Setup
 
 ### Requirements
 - Python **≥ 3.11**
@@ -72,7 +88,7 @@ pip install -e .
 
 ---
 
-## Configuration
+## 🧩 Configuration
 
 ### Download Trained Agents and Caches
 
@@ -117,7 +133,7 @@ Install `gr-libs` inside the container using the instructions above.
 
 ---
 
-## Running
+## 🚀 Running
 
 `gr-libs` supports **Online Dynamic Goal Recognition (ODGR)** workflows.
 You can either write a custom Python script or run experiments via configuration files.
@@ -199,7 +215,7 @@ This produces:
 
 ---
 
-## Scaling Experiments
+## 📈 Scaling Experiments
 
 Run many ODGR problems in parallel using `all_experiments.py`:
 
@@ -228,7 +244,7 @@ See `evaluation/README.md` for details.
 
 ---
 
-## Developers
+## 🛠️ For Developers
 
 For contributors:
 
