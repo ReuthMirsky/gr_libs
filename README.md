@@ -266,7 +266,7 @@ CI, Docker images, and GitHub Actions are documented here:
 
 
 ## 📄 License
-This project is open source under the Apache License 2.0.
+This project is open source under the MIT License.
 
 ## 🤝 Acknowledgments
 If you use SCP, please cite our technical report:
@@ -276,7 +276,7 @@ If you use SCP, please cite our technical report:
   author       = {Shamir, Matan and Nageris, Ben and Elhadad, Osher and Mirsky, Reuth},
   year         = {2025},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/ReuthMirsky/gr_libs}},
-  note         = {Python library for online and offline goal recognition algorithms built on top of the Gymnasium API}
+  howpublished = {\url{https://github.com/MatanShamir1/gr_libs}},
+  note         = {Python library for online and offline dynamic goal recognition algorithms built on top of the Gymnasium API}
 }
 
