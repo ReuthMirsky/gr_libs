@@ -18,12 +18,9 @@ See: https://github.com/MatanShamir1/gr_envs
 - [🚀 Running](#-running)
 - [📈 Scaling Experiments](#-scaling-experiments)
 - [🛠️ For Developers](#️-for-developers)
-<!--
- - [🌐 Related Links](#-related-links)
-\\ [📄 License](#-license)
-\\ - [Acknowledgments](#acknowledgments)
--->
-
+- [🌐 Related Links](#-related-links)
+- [📄 License](#-license)
+- [🤝 Acknowledgments](#acknowledgments)
 ---
 
 ## ⚙️ Setup
@@ -256,4 +253,30 @@ pre-commit install
 CI, Docker images, and GitHub Actions are documented here:
 [https://github.com/MatanShamir1/gr_libs/tree/main/CI](https://github.com/MatanShamir1/gr_libs/tree/main/CI)
 
-```
+
+---
+
+## 🌐 Related Links
+
+- **GR theoretical tutorial**: [A hub for multiple goal recognition resources](https://www.planrec.org/resources.html/)
+- **GRasRL**: [Goal Recognition as Reinforcement Learning](https://arxiv.org/abs/2202.06356)
+- **DRACO**: [Goal Recognition using Actor-Critic Optimization](https://arxiv.org/abs/2501.01463)
+- **GRAML**: [Goal Recognition as Metric Learning]([https://arxiv.org/abs/2202.06356](https://arxiv.org/abs/2505.03941)
+- **GDGR**: [General Dynamic Goal Recognition using Goal-Conditioned and Meta Reinforcement Learning](https://arxiv.org/abs/2505.09737)
+
+
+## 📄 License
+This project is open source under the Apache License 2.0.
+
+## 🤝 Acknowledgments
+If you use SCP, please cite our technical report:
+```bibtex
+@misc{grlibs2025,
+  title        = {gr-libs: A Python Library for Goal Recognition in Markov Decision Processes},
+  author       = {Shamir, Matan and Nageris, Ben and Elhadad, Osher and Mirsky, Reuth},
+  year         = {2025},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/ReuthMirsky/gr_libs}},
+  note         = {Python library for online and offline goal recognition algorithms built on top of the Gymnasium API}
+}
+
