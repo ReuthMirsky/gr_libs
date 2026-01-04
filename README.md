@@ -261,7 +261,7 @@ CI, Docker images, and GitHub Actions are documented here:
 - **GR theoretical tutorial**: [A hub for multiple goal recognition resources](https://www.planrec.org/resources.html/)
 - **GRasRL**: [Goal Recognition as Reinforcement Learning](https://arxiv.org/abs/2202.06356)
 - **DRACO**: [Goal Recognition using Actor-Critic Optimization](https://arxiv.org/abs/2501.01463)
-- **GRAML**: [Goal Recognition as Metric Learning]([https://arxiv.org/abs/2202.06356](https://arxiv.org/abs/2505.03941)
+- **GRAML**: [Goal Recognition as Metric Learning](https://arxiv.org/abs/2505.03941)
 - **GDGR**: [General Dynamic Goal Recognition using Goal-Conditioned and Meta Reinforcement Learning](https://arxiv.org/abs/2505.09737)
 
 
