@@ -24,7 +24,8 @@ dependencies = [
     "rl_zoo3",
     "stable_baselines3[extra]",
     "sb3_contrib",
-    "pytest"
+    "pytest",
+    "gdown",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
